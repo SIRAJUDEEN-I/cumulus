@@ -52,6 +52,8 @@ function Main() {
       <p>zapier</p>
       <p>spotify</p>
       <p>zoom</p>
+      <p>Amazon</p>
+      <p>Adobe</p>
       <p>slack</p>
     
     </div>
