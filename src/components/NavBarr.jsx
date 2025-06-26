@@ -29,11 +29,11 @@ function Navbar() {
         />
       </div>
 
-      {/* Center nav links */}
+     
       <ul className="absolute left-1/2 top-[21px] -translate-x-1/2 flex flex-row items-center gap-[30px] w-[537px] h-[55px] z-10">
         <li>
           <a
-            href="#"
+            href="#Home"
             className=" transition-all duration-300 hover:bg-[#262626] hover:scale-105 flex items-center px-4 py-[14px]  rounded-[8px] text-white font-barlow font-semibold text-[18px] leading-[27px] h-[55px]"
           >
             Home
@@ -41,7 +41,7 @@ function Navbar() {
         </li>
         <li>
           <a
-            href="#"
+            href="#Services"
             className="transition-all duration-300 hover:bg-[#262626] hover:scale-105 flex items-center px-4 py-[14px]  rounded-[8px] text-white font-barlow font-semibold text-[18px] leading-[27px] h-[55px]"
           >
             Services
@@ -49,7 +49,7 @@ function Navbar() {
         </li>
         <li>
           <a
-            href="#"
+            href="#Work"
             className="transition-all duration-300 hover:bg-[#262626] hover:scale-105 flex items-center px-4 py-[14px]  rounded-[8px] text-white font-barlow font-semibold text-[18px] leading-[27px] h-[55px]"
           >
             Work
@@ -57,7 +57,7 @@ function Navbar() {
         </li>
         <li>
           <a
-            href="#"
+            href="#Process"
             className="transition-all duration-300 hover:bg-[#262626] hover:scale-105 flex items-center px-4 py-[14px]  rounded-[8px] text-white font-barlow font-semibold text-[18px] leading-[27px] h-[55px]"
           >
             Process
@@ -65,7 +65,7 @@ function Navbar() {
         </li>
         <li>
           <a
-            href="#"
+            href="#About"
             className="transition-all duration-300 hover:bg-[#262626] hover:scale-105 flex items-center px-4 py-[14px]  rounded-[8px] text-white font-barlow font-semibold text-[18px] leading-[27px] h-[55px]"
           >
             About
@@ -73,7 +73,7 @@ function Navbar() {
         </li>
         <li>
           <a
-            href="#"
+            href="#Careers"
             className="transition-all duration-300 hover:bg-[#262626] hover:scale-105 flex items-center px-4 py-[14px]  rounded-[8px] text-white font-barlow font-semibold text-[18px] leading-[27px] h-[55px]"
           >
             Careers

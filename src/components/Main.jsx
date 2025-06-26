@@ -30,7 +30,7 @@ function Main() {
         aria-hidden="true"
       />
 
-      <h1 className="text-[68px] font-semibold font-barlow text-white mb-6 mt-40 z-10 relative">THINK DEEP I MAKE IMPACT</h1>
+      <h1 className=" id='Home' text-[68px] font-semibold font-barlow text-white mb-6 mt-40 z-10 relative">THINK DEEP I MAKE IMPACT</h1>
 
       <div className="flex flex-row py-6 px-12 rounded-[8px] bg-[#191818] text-white z-10 relative">
         <span className="px-2 py-2">For</span>

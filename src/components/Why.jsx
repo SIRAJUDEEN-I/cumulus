@@ -30,7 +30,7 @@ function Why() {
           }}
           aria-hidden="true"
         />
-        <h1 className="text-4xl font-bold font-barlow text-white py-3 text-center z-10 relative">
+        <h1 id="Work" className="text-4xl font-bold font-barlow text-white py-3 text-center z-10 relative">
           Why Choose CumulusClad?
         </h1>
         <p className="py-3 font-barlow text-white text-center z-10 relative">
