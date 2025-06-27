@@ -5,7 +5,7 @@ function OurServices() {
     <div className="flex flex-col items-center justify-center  h-[336px] mx-auto relative p-[120px_300px] gap-[14px]  overflow-hidden"
       style={{
         background: `#1B1915`,
-        backgroundBlendMode: 'color, overlay',
+        backgroundBlendMode: '#FF9524, overlay',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
       }}

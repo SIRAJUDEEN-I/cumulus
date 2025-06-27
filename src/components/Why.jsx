@@ -19,7 +19,7 @@ function Why() {
           opacity:'30'
         }}
       >
-        {/* Squares overlay with 60% opacity */}
+        
         <div
           className="absolute inset-0 w-full h-full z-0 pointer-events-none select-none"
           style={{
