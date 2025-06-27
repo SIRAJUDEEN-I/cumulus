@@ -8,7 +8,7 @@ import Services from './components/Services.jsx'
 import Reviews from './components/Reviews.jsx'
 import FaqGroup from './components/FaqGroup.jsx'
 import Thanks from './components/Thanks.jsx'
-
+import Contact from './components/Contact.jsx'
 
 
 
@@ -29,6 +29,7 @@ function App() {
     <Reviews/>
     <FaqGroup/>
     <Thanks/>
+    <Contact />
     </>
   )
 }

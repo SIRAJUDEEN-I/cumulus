@@ -84,13 +84,13 @@ function FaqGroup() {
 
                         {/* q 5 */}
 
-                         <FaqItem  id={4} openIndex={4===openIndex} onToggle={()=> handleToggle(4)} question="How long does it take to complete a project with CumuluClad?" answer="CumuluClad offers a range of services including design, engineering, and project management. We specialize in user experience design, web development, mobile app development, custom software development, branding and identity, and more."/>
+                         <FaqItem  id={4} openIndex={4===openIndex} onToggle={()=> handleToggle(4)} question="Do you offer ongoing support and maintenance after the project is completed?" answer="CumuluClad offers a range of services including design, engineering, and project management. We specialize in user experience design, web development, mobile app development, custom software development, branding and identity, and more."/>
                     {/* q6 */}
-                          <FaqItem  id={5} openIndex={5===openIndex} onToggle={()=> handleToggle(5)} question="How long does it take to complete a project with CumuluClad?" answer="CumuluClad offers a range of services including design, engineering, and project management. We specialize in user experience design, web development, mobile app development, custom software development, branding and identity, and more."/>
+                          <FaqItem  id={5} openIndex={5===openIndex} onToggle={()=> handleToggle(5)} question="Can you work with existing design or development frameworks?" answer="CumuluClad offers a range of services including design, engineering, and project management. We specialize in user experience design, web development, mobile app development, custom software development, branding and identity, and more."/>
 {/* q7 */}
-                           <FaqItem  id={6} openIndex={6===openIndex} onToggle={()=> handleToggle(6)} question="How long does it take to complete a project with CumuluClad?" answer="CumuluClad offers a range of services including design, engineering, and project management. We specialize in user experience design, web development, mobile app development, custom software development, branding and identity, and more."/>
+                           <FaqItem  id={6} openIndex={6===openIndex} onToggle={()=> handleToggle(6)} question="How involved will I be in the project development process?" answer="CumuluClad offers a range of services including design, engineering, and project management. We specialize in user experience design, web development, mobile app development, custom software development, branding and identity, and more."/>
 {/* q8 */}
-                            <FaqItem  id={7} openIndex={7===openIndex} onToggle={()=> handleToggle(7)} question="How long does it take to complete a project with CumuluClad?" answer="CumuluClad offers a range of services including design, engineering, and project management. We specialize in user experience design, web development, mobile app development, custom software development, branding and identity, and more."/>
+                            <FaqItem  id={7} openIndex={7===openIndex} onToggle={()=> handleToggle(7)} question="Can you help with website or app maintenance and updates?" answer="CumuluClad offers a range of services including design, engineering, and project management. We specialize in user experience design, web development, mobile app development, custom software development, branding and identity, and more."/>
 
 
 
