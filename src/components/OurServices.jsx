@@ -10,7 +10,7 @@ function OurServices() {
         backgroundPosition: 'center',
       }}
     >
-      {/* Stripes overlay */}
+      
       <img
         src={stripes}
         alt=""

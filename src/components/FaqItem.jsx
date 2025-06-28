@@ -1,5 +1,4 @@
 
-// install lucide-react or use any other icon
 import { HiPlus } from "react-icons/hi";
 import Number from './numbers/Number.jsx'
 

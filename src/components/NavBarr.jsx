@@ -6,7 +6,7 @@ function Navbar() {
       className="box-border absolute flex flex-row items-center justify-between px-[162px] py-5 w-[1920px] h-[100px] top-0 right-0 border-b border-[#262626] bg-black isolate "
       style={{ gap: '711px', zIndex: 10 }}
     >
-      {/* Logo */}
+      {/* Logo cumulus */}
       <div
         className="flex-none order-0 flex-grow-0 z-20"
         style={{

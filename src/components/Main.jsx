@@ -13,7 +13,7 @@ function Main() {
         
       }}
     >
-      {/* Vector background image, cropped by overflow-hidden */}
+      
       <img
         src={vector}
         alt=""
